@@ -8,4 +8,4 @@ Examples:
 
 ## http_latency
 
-sysdig -c http_latency [filter] - measure http latency
+`sysdig -c http_latency [filter]` - measure http latency
